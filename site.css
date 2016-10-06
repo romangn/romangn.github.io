@@ -1,0 +1,23 @@
+body {
+	background-image: url("halftone.png");
+}
+
+p {
+	font-size: 16px;
+}
+
+#links a {
+	font-size: 16px;
+}
+
+#books a {
+	font-size: 16px;
+}
+
+#projects li {
+	font-size: 16px;
+}
+
+#languages li {
+	font-size: 16px;
+}
